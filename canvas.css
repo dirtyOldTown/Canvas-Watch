@@ -1,0 +1,12 @@
+.container {
+  background-color: darkslategrey;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  border-radius: 5px;
+}
+#draw {
+  align-self: center;
+  background-color: darkslategrey;
+}
