@@ -1,2 +1,2 @@
 # SImple Watch
-> Done in **Canvas**
+> Draw in **Canvas**
