@@ -1,6 +1,6 @@
 function drawClockFace(ctx, radius) {
   // Central circle
-  ctx.fillStyle = "whitesmoke";
+  ctx.fillStyle = "white";
   ctx.beginPath();
   radius = radius * 0.9;
   ctx.arc(0, 0, radius, 0, 2 * Math.PI);
